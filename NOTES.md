@@ -30,8 +30,9 @@ stories from earlier days that were deliberately left out.
 4. China's Huawei convicted in sprawling US criminal trial over Iran
    business; guilty on trade secrets, acquitted of racketeering.
    Source: Reuters. [OFFICIAL]
-5. Dow closes above 50,000 at 50,018.70 (+0.85%); Nasdaq falls 1.48% as
-   Nvidia slides 5.9%. Source: Reuters. [CONFIRMED]
+5. Dow erases a 1,100-point intraday plunge to close at 50,182.95
+   (+0.33%); Nasdaq falls 0.62% as Nvidia slides 3.9%.
+   Source: Reuters. [CONFIRMED]
 6. Dell reports doubled sales of $54.9bn and $60.2bn in new AI server
    orders; shares rise 4.1% after hours. Source: Reuters. [OFFICIAL]
 7. Magnitude 5.6 earthquake strikes Nepal's Koshi province near the China

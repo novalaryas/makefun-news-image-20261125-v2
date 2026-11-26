@@ -96,8 +96,8 @@ ILLUSTRATED = [
     (4, "EAST ASIA", "Huawei convicted in US trial",
      "Guilty over Iran business; acquitted of racketeering.",
      "Reuters", "OFFICIAL", "chip", 121, 31),
-    (5, "NORTH AMERICA", "Dow tops 50,000 as Nasdaq falls",
-     "Dow 50,018.70 (+0.85%); Nasdaq -1.48%, Nvidia -5.9%.",
+    (5, "NORTH AMERICA", "Dow erases a 1,100-pt plunge",
+     "Dow 50,182.95 (+0.33%); Nasdaq -0.62%, Nvidia -3.9%.",
      "Reuters", "CONFIRMED", "chart_up", -74, 41),
     (6, "NORTH AMERICA", "Dell doubles sales on AI demand",
      "Sales $54.9bn, $60.2bn in new AI orders; shares +4.1%.",
@@ -166,7 +166,7 @@ NUMBERS = [
     ("16", "crew evacuated, Gulf ship"),
     ("5.6", "Nepal quake magnitude"),
     ("$54.9bn", "Dell quarterly sales"),
-    ("50,018", "Dow close, a record"),
+    ("50,183", "Dow close, dip erased"),
     ("204", "runs, Sooryavanshi, 15"),
 ]
 
@@ -174,7 +174,7 @@ TIMELINE = [
     ("00:18 UTC", "Shenzhou-24 launches from Jiuquan"),
     ("MORNING", "Asia's chip stocks tumble on tariff threats"),
     ("MORNING", "Zelenskiy confirms the Gulf of Finland strike"),
-    ("MIDDAY", "Dow closes above 50,000; Nasdaq slides"),
+    ("21:00 UTC", "Dow closes higher after erasing a 1,100-pt plunge"),
     ("EVENING", "Dell: sales double to $54.9bn on AI demand"),
     ("EVENING", "Houthi drone wounds 11 at Riyadh's tallest tower"),
 ]
